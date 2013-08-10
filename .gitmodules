@@ -1,0 +1,6 @@
+[submodule "libkoki"]
+	path = libkoki
+	url = git://srobo.org/libkoki.git
+[submodule "pykoki"]
+	path = pykoki
+	url = git://srobo.org/pykoki.git
